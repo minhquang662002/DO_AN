@@ -1,0 +1,12 @@
+D:\C#\SocialApp\SocialApp.Domain\bin\Debug\net6.0\SocialApp.Domain.deps.json
+D:\C#\SocialApp\SocialApp.Domain\bin\Debug\net6.0\SocialApp.Domain.dll
+D:\C#\SocialApp\SocialApp.Domain\bin\Debug\net6.0\SocialApp.Domain.pdb
+D:\C#\SocialApp\SocialApp.Domain\obj\Debug\net6.0\SocialApp.Domain.csproj.AssemblyReference.cache
+D:\C#\SocialApp\SocialApp.Domain\obj\Debug\net6.0\SocialApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SocialApp\SocialApp.Domain\obj\Debug\net6.0\SocialApp.Domain.AssemblyInfoInputs.cache
+D:\C#\SocialApp\SocialApp.Domain\obj\Debug\net6.0\SocialApp.Domain.AssemblyInfo.cs
+D:\C#\SocialApp\SocialApp.Domain\obj\Debug\net6.0\SocialApp.Domain.csproj.CoreCompileInputs.cache
+D:\C#\SocialApp\SocialApp.Domain\obj\Debug\net6.0\SocialApp.Domain.dll
+D:\C#\SocialApp\SocialApp.Domain\obj\Debug\net6.0\refint\SocialApp.Domain.dll
+D:\C#\SocialApp\SocialApp.Domain\obj\Debug\net6.0\SocialApp.Domain.pdb
+D:\C#\SocialApp\SocialApp.Domain\obj\Debug\net6.0\ref\SocialApp.Domain.dll

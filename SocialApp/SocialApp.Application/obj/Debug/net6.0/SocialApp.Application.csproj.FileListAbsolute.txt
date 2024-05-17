@@ -1,0 +1,17 @@
+D:\C#\SocialApp\SocialApp.Application\obj\Debug\net6.0\SocialApp.Application.csproj.AssemblyReference.cache
+D:\C#\SocialApp\SocialApp.Application\obj\Debug\net6.0\SocialApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SocialApp\SocialApp.Application\obj\Debug\net6.0\SocialApp.Application.AssemblyInfoInputs.cache
+D:\C#\SocialApp\SocialApp.Application\obj\Debug\net6.0\SocialApp.Application.AssemblyInfo.cs
+D:\C#\SocialApp\SocialApp.Application\obj\Debug\net6.0\SocialApp.Application.csproj.CoreCompileInputs.cache
+D:\C#\SocialApp\SocialApp.Application\bin\Debug\net6.0\SocialApp.Application.deps.json
+D:\C#\SocialApp\SocialApp.Application\bin\Debug\net6.0\SocialApp.Application.dll
+D:\C#\SocialApp\SocialApp.Application\bin\Debug\net6.0\SocialApp.Application.pdb
+D:\C#\SocialApp\SocialApp.Application\bin\Debug\net6.0\SocialApp.Domain.dll
+D:\C#\SocialApp\SocialApp.Application\bin\Debug\net6.0\SocialApp.Infrastructure.dll
+D:\C#\SocialApp\SocialApp.Application\bin\Debug\net6.0\SocialApp.Domain.pdb
+D:\C#\SocialApp\SocialApp.Application\bin\Debug\net6.0\SocialApp.Infrastructure.pdb
+D:\C#\SocialApp\SocialApp.Application\obj\Debug\net6.0\SocialApp.Application.csproj.CopyComplete
+D:\C#\SocialApp\SocialApp.Application\obj\Debug\net6.0\SocialApp.Application.dll
+D:\C#\SocialApp\SocialApp.Application\obj\Debug\net6.0\refint\SocialApp.Application.dll
+D:\C#\SocialApp\SocialApp.Application\obj\Debug\net6.0\SocialApp.Application.pdb
+D:\C#\SocialApp\SocialApp.Application\obj\Debug\net6.0\ref\SocialApp.Application.dll
